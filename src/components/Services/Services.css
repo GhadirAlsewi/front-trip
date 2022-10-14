@@ -1,0 +1,9 @@
+.service{
+    background:white;
+    padding: 1.3rem;
+    margin: 0 1.3rem;
+    border-radius: 36px;
+}
+.service.active{
+    box-shadow: 0 50px 50px #f3f3f3;
+}
